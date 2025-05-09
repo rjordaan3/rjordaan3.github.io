@@ -1,15 +1,13 @@
 ---
 permalink: /
-title: "abouwwt"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Test
-
-test title
+About
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I'm a second-year PhD student at Georgia Tech interested in graph theory. I am fortunate to have Professor Xingxing Yu as my advisor. I did my undergrad at MIT, where I graduated in 2023 with a double major in math and literature.
 
