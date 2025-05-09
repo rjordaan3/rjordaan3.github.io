@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Richter's Homepage test"
+title                    : "Richter's Homepage test2"
 title_separator          : "-"
 name                     : &name "Richter Jordaan"
 description              : &description "personal description"
