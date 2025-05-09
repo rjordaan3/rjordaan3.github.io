@@ -10,7 +10,7 @@
 main:
 
   - title: "home"
-    url: /home
+    url: /
 
   - title: "teaching"
     url: /teaching/
