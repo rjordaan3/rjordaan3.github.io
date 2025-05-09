@@ -15,6 +15,16 @@ You can download my [CV](/files/YourName_CV.pdf) or read about my [publications]
 
 ---
 
+
+### Contact
+
+- 📧 Email: your.email@university.edu  
+- 🏢 Office: Room 123, Math Building  
+- 🏫 Address: Department of Mathematics, University Name  
+- 🕒 Office Hours: Wednesdays 2–4pm or by appointment
+
+---
+
 ### News
 
 - 📝 **May 2025:** Submitted a new preprint on [Your Topic].
