@@ -248,10 +248,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _publications
+  # _papers
   - scope:
       path: ""
-      type: publications
+      type: papers
     values:
       layout: single
       author_profile: true
