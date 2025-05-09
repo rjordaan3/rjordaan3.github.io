@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="/images/pic.png" width="180px" style="float: right; margin-left: 25px; margin-bottom: 15px; border-radius: 8px;" />
 
-I'm a second-year PhD student at Georgia Tech interested in graph theory. I am fortunate to have Professor [Xingxing Yu] (https://yu.math.gatech.edu) as my advisor. I did my undergrad at MIT, where I graduated in 2023 with a double major in math and literature. 
+I'm a second-year PhD student at Georgia Tech interested in graph theory. I am fortunate to have Professor [Xingxing Yu](https://yu.math.gatech.edu) as my advisor. I did my undergrad at MIT, where I graduated in 2023 with a double major in math and literature. 
 ---
 
 
