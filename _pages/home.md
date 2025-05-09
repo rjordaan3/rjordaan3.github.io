@@ -2,16 +2,23 @@
 title: "Home"
 permalink: /
 layout: single
-author_profile: true
+author_profile: false
 ---
 
-![Photo](/images/your_photo.jpg){: style="float: right; margin-left: 20px;" width="200px"}
+<img src="/images/pic.png" width="180px" style="float: right; margin-left: 25px; margin-bottom: 15px; border-radius: 8px;" />
 
-Welcome! I am a [Your Title] at [Your Institution].
+Welcome! I am a [Your Title] at [Your Institution], working in [Your Research Area].
 
-[Download CV](/files/YourName_CV.pdf)
+My research interests include [Topic 1], [Topic 2], and [Topic 3]. I completed my Ph.D. in [Your Field] at [University], under the supervision of [Advisor's Name].
+
+You can download my [CV](/files/YourName_CV.pdf) or read about my [publications](/publications/), [teaching](/teaching/), and [research](/research/).
+
+---
 
 ### News
 
-- 📝 May 2025: New preprint submitted.
-- 🎉 March 2025: Gave a talk at XYZ Conference.
+- 📝 **May 2025:** Submitted a new preprint on [Your Topic].
+- 🎉 **April 2025:** Gave a talk at [Conference Name].
+- 📢 **March 2025:** Awarded a [Fellowship or Grant Name].
+
+[More news »](/news/)
