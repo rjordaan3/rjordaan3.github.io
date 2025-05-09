@@ -9,8 +9,6 @@ author_profile: false
 
 I'm a second-year PhD student at Georgia Tech interested in graph theory. I am fortunate to have Professor [Xingxing Yu] (https://yu.math.gatech.edu) as my advisor. I did my undergrad at MIT, where I graduated in 2023 with a double major in math and literature. 
 
-You can download my [CV](/files/YourName_CV.pdf) or read about my [publications](/publications/), [teaching](/teaching/), and [research](/research/).
-
 ---
 
 
