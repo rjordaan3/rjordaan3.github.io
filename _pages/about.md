@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_to: /home
+redirect_to: /home/
 redirect_from: 
   - /about/
   - /about.html
