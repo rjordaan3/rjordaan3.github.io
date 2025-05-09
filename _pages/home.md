@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Test"
 permalink: /home/
 layout: single
 author_profile: false
