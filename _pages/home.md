@@ -1,11 +1,13 @@
 ---
-title: "Home"
+title: ""
 permalink: /home/
 layout: single
 author_profile: false
 ---
 
 <img src="/images/pic.png" width="180px" style="float: right; margin-left: 25px; margin-bottom: 15px; border-radius: 8px;" />
+
+I'm a second-year PhD student at Georgia Tech interested in graph theory. I am fortunate to have Professor Xingxing Yu as my advisor. I did my undergrad at MIT, where I graduated in 2023 with a double major in math and literature. Test Read [my paper](https://google.com).
 
 Welcome! I am a [Your Title] at [Your Institution], working in [Your Research Area].
 
