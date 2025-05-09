@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Richter's Homepage test2"
+title                    : #"Richter's Homepage"
 title_separator          : "-"
 name                     : &name "Richter Jordaan"
 description              : &description "personal description"
@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Richter Jordaan"
-  pronouns         : "he/him"  
+  pronouns         : #"he/him"  
   bio              : #"Short biography for the left-hand sidebar"
-  location         : "Georgia Tech"
-  employer         : #"Red Brick University"
+  location         : #"Georgia Tech"
+  employer         : "Georgia Tech"
   uri              : # URL
   email            : "rjordaan3 [at] gatech.edu" 
 
