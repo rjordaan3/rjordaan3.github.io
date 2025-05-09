@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : #"Richter's Homepage"
+title                    : "Richter Jordaan"
 title_separator          : "-"
 name                     : &name "Richter Jordaan"
 description              : &description "personal description"
@@ -23,17 +23,17 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Richter Jordaan"
+  name             : #"Richter Jordaan"
   pronouns         : #"he/him"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : #"Georgia Tech"
-  employer         : "Georgia Tech"
+  employer         : #"Georgia Tech"
   uri              : # URL
-  email            : "rjordaan3 [at] gatech.edu" 
+  email            : #"rjordaan3 [at] gatech.edu" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : "https://arxiv.org/search/math?query=Jordaan%2C+Richter&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
+  arxiv            : #"https://arxiv.org/search/math?query=Jordaan%2C+Richter&searchtype=author&abstracts=show&order=-announced_date_first&size=50"
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
