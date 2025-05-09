@@ -12,7 +12,7 @@ main:
   - title: "papers"
     url: /teaching/
 
-    - title: "teaching"
+  - title: "teaching"
     url: /papers/ 
    
   - title: "for fun"
