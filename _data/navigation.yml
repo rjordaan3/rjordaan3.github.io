@@ -18,8 +18,8 @@ main:
   - title: "papers"
     url: /papers/ 
    
-  - title: "for fun"
-    url: /fun/    
+ # - title: "for fun"
+ #  url: /fun/    
     
  # - title: "Portfolio"
  #  url: /portfolio/
