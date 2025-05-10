@@ -7,10 +7,10 @@ author_profile: false
 
 
 ## Research Papers
-- Ideally Connected Graphs with Clique Cuts. 
-  Submitted
-- Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).
-  with Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn
+- Ideally Connected Graphs with Clique Cuts.  
+  Submitted  
+- Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
+  with Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn  
   To appear in _Journal of Combinatorics_
 
 ## Expository Writing
