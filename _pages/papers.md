@@ -16,10 +16,8 @@ With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Sp
 
 To appear in _Journal of Combinatorics_
 
-## Expository Writing
+## Graph Theory Expository Writing
 All typos/errors are my own!
-
-### Graph Theory
 
 - [Hamilton circles in infinite planar graphs](https://drive.google.com/file/d/1OSA-sXX8Hyz_0_3o0xvitaItB4t91D7x/view?usp=sharing)
 - [Cop and Robber Games on Undirected Graphs](https://drive.google.com/file/d/1G2i42aBxSbr1_dPbb3ouJStTL-OGBYJ2/view?usp=sharing)
