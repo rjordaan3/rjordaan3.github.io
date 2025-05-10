@@ -8,10 +8,10 @@ All typos/errors are my own!
 
 ## Research Papers
 - Ideally Connected Graphs with Clique Cuts.  
-  Submitted  
+  Submitted.    
 - Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
-  with Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn  
-  To appear in _Journal of Combinatorics_
+  With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.    
+  To appear in _Journal of Combinatorics_.
 
 ## Expository Writing
 - Hamilton circles in infinite planar graphs [(link)](https://drive.google.com/file/d/1OSA-sXX8Hyz_0_3o0xvitaItB4t91D7x/view?usp=sharing)
