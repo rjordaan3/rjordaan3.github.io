@@ -7,16 +7,19 @@ author_profile: false
 
 
 ## Research Papers
-- Ideally Connected Graphs with Clique Cuts. _Submitted_
-- Unit-Interval Parking Functions and the Permutohedron, with Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn, [(link)](https://arxiv.org/abs/2305.15554). To appear in _Journal of Combinatorics_
+- Ideally Connected Graphs with Clique Cuts. 
+  Submitted
+- Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).
+  with Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn
+  To appear in _Journal of Combinatorics_
 
-## Graph Theory Expository Writing
+## Expository Writing
 All typos/errors are my own!
 
 - [Hamilton circles in infinite planar graphs](https://drive.google.com/file/d/1OSA-sXX8Hyz_0_3o0xvitaItB4t91D7x/view?usp=sharing)
 - [Cop and Robber Games on Undirected Graphs](https://drive.google.com/file/d/1G2i42aBxSbr1_dPbb3ouJStTL-OGBYJ2/view?usp=sharing)
 - [Width Parameters for Directed Graphs](https://drive.google.com/file/d/1eNWbEzrmlsEzH8yzvoL_DxJDwGA5C8ev/view?usp=sharing)
 
-## Talks
-- Cycle covers and the cycle double cover conjecture, Georgia Tech Graph Theory Seminar, 2025. [slides](https://drive.google.com/file/d/1DxZ21buw9Yx3AhDFzc3jay32zDD9pW0s/view?usp=sharing)
+## Talk Slides
+- Cycle covers and the cycle double cover conjecture, Georgia Tech Graph Theory Seminar, 2025. [(slides)](https://drive.google.com/file/d/1DxZ21buw9Yx3AhDFzc3jay32zDD9pW0s/view?usp=sharing)
 
