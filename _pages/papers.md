@@ -14,3 +14,15 @@ With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Sp
 To appear in Journal of Combinatorics
 
 ## Expository Writing
+All typos/errors are my own!
+
+### Graph Theory
+
+- [**Hamilton circles in infinite planar graphs**](#)
+- [**Cop and Robber Games on Undirected Graphs**](#)
+- [**Width Parameters for Directed Graphs**](#)
+
+### Information Theory
+
+- [**Kolmogorov Complexity**](#)
+- [**Unequal-Cost Binary Prefix Codes**](#)
