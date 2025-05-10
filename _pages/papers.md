@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /papers/
 author_profile: false
 ---
-
+All typos/errors are my own!
 
 ## Research Papers
 - Ideally Connected Graphs with Clique Cuts.  
@@ -14,8 +14,6 @@ author_profile: false
   To appear in _Journal of Combinatorics_
 
 ## Expository Writing
-All typos/errors are my own!
-
 - Hamilton circles in infinite planar graphs [(link)](https://drive.google.com/file/d/1OSA-sXX8Hyz_0_3o0xvitaItB4t91D7x/view?usp=sharing)
 - Cop and Robber Games on Undirected Graphs [(link)](https://drive.google.com/file/d/1G2i42aBxSbr1_dPbb3ouJStTL-OGBYJ2/view?usp=sharing)
 - Width Parameters for Directed Graphs [(link)](https://drive.google.com/file/d/1eNWbEzrmlsEzH8yzvoL_DxJDwGA5C8ev/view?usp=sharing)
