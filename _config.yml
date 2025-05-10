@@ -257,10 +257,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _papers
+  # _research
   - scope:
       path: ""
-      type: papers
+      type: research
     values:
       layout: single
       author_profile: true

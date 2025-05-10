@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /papers/
+permalink: /research/
 author_profile: false
 ---
 All typos/errors are my own!
