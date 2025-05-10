@@ -7,22 +7,20 @@ author_profile: false
 
 
 ## Research Papers
-- Ideally Connected Graphs with Clique Cuts.\
+- Ideally Connected Graphs with Clique Cuts
+
 Submitted.
-- Unit-Interval Parking Functions and the Permutohedron.\
-With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.\ 
-To appear in Journal of Combinatorics
+- Unit-Interval Parking Functions and the Permutohedron [link](https://arxiv.org/abs/2305.15554)
+
+With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.
+
+To appear in _Journal of Combinatorics_
 
 ## Expository Writing
 All typos/errors are my own!
 
 ### Graph Theory
 
-- [**Hamilton circles in infinite planar graphs**](#)
-- [**Cop and Robber Games on Undirected Graphs**](#)
-- [**Width Parameters for Directed Graphs**](#)
-
-### Information Theory
-
-- [**Kolmogorov Complexity**](#)
-- [**Unequal-Cost Binary Prefix Codes**](#)
+- [Hamilton circles in infinite planar graphs](https://drive.google.com/file/d/1OSA-sXX8Hyz_0_3o0xvitaItB4t91D7x/view?usp=sharing)
+- [Cop and Robber Games on Undirected Graphs](https://drive.google.com/file/d/1G2i42aBxSbr1_dPbb3ouJStTL-OGBYJ2/view?usp=sharing)
+- [Width Parameters for Directed Graphs](https://drive.google.com/file/d/1eNWbEzrmlsEzH8yzvoL_DxJDwGA5C8ev/view?usp=sharing)
