@@ -8,11 +8,11 @@ math: true
 Here are some open problems I've spent some time thinking about. If you want to talk about any of these, please reach out!
 
 ## Total connectivity
-For distinct vertices \\(u,v\) in a graph \\(G\) let \\( \kappa_G(u,v) \) denote the largest number of internally disjoint \\(u\)-\\(b\)paths in $G$. The _total connectivity_ \\ (T(G) \) is defined as \\( \sum_{u,v \in V(G)} \kappa_G(u,v) \). The _average connectivity_ of \\(G\) is defined as \\( \frac{T(G)}{\binom{|V(G)|}{2}} \).
+For distinct vertices \\( u,v \\) in a graph \\( G \\) let \\( \kappa_G(u,v) \\) denote the largest number of internally disjoint \\( u \\)-\\( v \\)paths in $G$. The _total connectivity_ \\( T(G) \\) is defined as \\( \frac{T(G)}{\binom{|V(G)|}{2}} \\). The _average connectivity_ of \\( G \\)  is defined as \\( \frac{T(G)}{\binom{|V(G)|}{2}} \\).
 
 For distinct vertices \(u,v\) in a graph \(G\), let \(\kappa_G(u,v)\) denote the number of internally disjoint \(u\)-\(v\) paths.
 
-test \\(u,v\)
+test \\( \kappa_G(u,v) \\)
 
 Inline math: \( E = mc^2 \)
 
