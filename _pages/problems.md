@@ -12,6 +12,12 @@ For distinct vertices $u,v$ in a graph $G$ let $\kappa_G(u,v)$ denote the larges
 
 Inline math: \( E = mc^2 \)
 
+Display math test:
+
+$$
+\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
+$$
+
 We know that in a graph with large enough
 - Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
   With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.    
