@@ -8,35 +8,8 @@ math: true
 Here are some open problems I've spent some time thinking about. If you want to talk about any of these, please reach out!
 
 ## Total connectivity
-For distinct vertices \\( u,v \\) in a graph \\( G \\) let \\( \kappa_G(u,v) \\) denote the largest number of internally disjoint \\( u \\)-\\( v \\)paths in $G$. The _total connectivity_ \\( T(G) \\) is defined as \\( \frac{T(G)}{\binom{|V(G)|}{2}} \\). The _average connectivity_ of \\( G \\)  is defined as \\( \frac{T(G)}{\binom{|V(G)|}{2}} \\).
+For distinct vertices \\( u,v \\) in a graph \\( G \\) let \\( \kappa_G(u,v) \\) denote the largest number of internally disjoint \\( u \\)-\\( v \\) paths in $G$. The _total connectivity_ \\( T(G) \\) is defined as \\( \sum_{u,v \in V(G)} \kappa_)G(u,v) \\). The _average connectivity_ of \\( G \\)  is defined as \\( \frac{T(G)}{\binom{|V(G)|}{2}} \\).
 
-For distinct vertices \(u,v\) in a graph \(G\), let \(\kappa_G(u,v)\) denote the number of internally disjoint \(u\)-\(v\) paths.
+We know that in any graph of average degree at least \\( 2d \\) has a subgraph of minimum degree at least \\( d \\). What is the analogous bound for average connectivity versus usual connectivity? In particular, for fixed \\( k>1 \\), how large can the average degree of a graph be without a \\( k \\)-connected subgraph. This question is trivial for \\( k=2 \\), but what about \\( k=3 \\)? Let \\( f(n) \\) denote the largest total connectivity of a graph on \\( n \\) vertices without a \\( 3 \\)-connected subgrapph. What is \\( f(n) \\)?
 
-test \\( \kappa_G(u,v) \\)
-
-Inline math: \( E = mc^2 \)
-
-Display math test:
-
-$$
-\int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
-$$
-
-This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
-
-We know that in a graph with large enough
-- Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
-  With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.    
-  To appear in _Journal of Combinatorics_.
-
-## Expository Writing
-- Cop and Robber Games on Undirected Graphs [(link)](https://drive.google.com/file/d/1G2i42aBxSbr1_dPbb3ouJStTL-OGBYJ2/view?usp=sharing)
-- Width Parameters for Directed Graphs [(link)](https://drive.google.com/file/d/1eNWbEzrmlsEzH8yzvoL_DxJDwGA5C8ev/view?usp=sharing)
-
-## Lecture Notes
-- Hamilton circles in infinite planar graphs [(link)](https://drive.google.com/file/d/1OSA-sXX8Hyz_0_3o0xvitaItB4t91D7x/view?usp=sharing)
-
-
-## Talk Slides
-- Cycle covers and the cycle double cover conjecture, Georgia Tech Graph Theory Seminar, 2025. [(slides)](https://drive.google.com/file/d/1DxZ21buw9Yx3AhDFzc3jay32zDD9pW0s/view?usp=sharing)
-
+I think the answer is \\( f(n) = 2n^2-6n+7 \\) for \\( n \geq 5 \\). The hard part of this question is dealing with graphs that are subdivisions of \\( 3 \\)-connected graphs. 
