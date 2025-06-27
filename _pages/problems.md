@@ -6,9 +6,10 @@ author_profile: false
 ---
 Here are some open problems I've spent some time thinking about. If you want to talk about any of these, please reach out!
 
-## Ideally connected graphs
-For distinct vertices $u,v$ in a graph $G$ let $\kappa_G(u,v)$ denote the largest number of internally disjoint $u$-$v$ paths in $G$. The _total connectivity_ $T(G)$ is defined as $ \sum_{u,v \in V(G)} \kappa_G(u,v)$.
+## Total connectivity
+For distinct vertices $u,v$ in a graph $G$ let $\kappa_G(u,v)$ denote the largest number of internally disjoint $u$-$v$ paths in $G$. The _total connectivity_ $T(G)$ is defined as $ \sum_{u,v \in V(G)} \kappa_G(u,v)$. The _average connectivity_ of $G$ is defined as $\frac{T(G)}{\binom{|V(G)|}{2}}$.
 
+We know that in a graph with large enough
 - Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
   With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.    
   To appear in _Journal of Combinatorics_.
