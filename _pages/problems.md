@@ -1,14 +1,14 @@
 ---
 layout: archive
-title: "Research papers, expository writing, etc."
-permalink: /research/
+title: "Problems"
+permalink: /problems/
 author_profile: false
 ---
-All typos/errors are my own!
+Here are some open problems I've spent some time thinking about. If you want to talk about any of these, please reach out!
 
-## Research Papers
-- Ideally Connected Cographs and Chordal Graphs.  
-  Submitted.    
+## Ideally connected graphs
+For distinct vertices $u,v$ in a graph $G$ let $\kappa_G(u,v)$ denote the largest number of internally disjoint $u$-$v$ paths in $G$. The total connectivity $T(G)$ is defined as $ \sum_{u,v \in V(G)} \kappa_G(u,v)$ .
+ 
 - Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
   With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.    
   To appear in _Journal of Combinatorics_.
