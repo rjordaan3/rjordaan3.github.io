@@ -10,6 +10,10 @@ Here are some open problems I've spent some time thinking about. If you want to 
 ## Total connectivity
 For distinct vertices $u,v$ in a graph $G$ let $\kappa_G(u,v)$ denote the largest number of internally disjoint $u$-$v$ paths in $G$. The _total connectivity_ $T(G)$ is defined as $ \sum_{u,v \in V(G)} \kappa_G(u,v)$. The _average connectivity_ of $G$ is defined as $\frac{T(G)}{\binom{|V(G)|}{2}}$.
 
+For distinct vertices \(u,v\) in a graph \(G\), let \(\kappa_G(u,v)\) denote the number of internally disjoint \(u\)-\(v\) paths.
+
+test \\(u,v\\)
+
 Inline math: \( E = mc^2 \)
 
 Display math test:
