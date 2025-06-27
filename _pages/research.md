@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Research papers, expository writing, etc."
 permalink: /research/
 author_profile: false
