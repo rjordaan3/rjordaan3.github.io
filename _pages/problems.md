@@ -18,6 +18,8 @@ $$
 \int_0^\infty e^{-x^2} dx = \frac{\sqrt{\pi}}{2}
 $$
 
+This sentence uses $\` and \`$ delimiters to show math inline: $`\sqrt{3x-1}+(1+x)^2`$
+
 We know that in a graph with large enough
 - Unit-Interval Parking Functions and the Permutohedron [(link)](https://arxiv.org/abs/2305.15554).  
   With Lucas Chaves Meyles, Pamela Harris, Gordon Kirby, Sam Sehayak, and Ethan Spingarn.    
