@@ -3,6 +3,7 @@ layout: archive
 title: "Problems"
 permalink: /problems/
 author_profile: false
+math: true
 ---
 Here are some open problems I've spent some time thinking about. If you want to talk about any of these, please reach out!
 
