@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research Papers, Writing, and Talks"
+title: "Research papers, expository writing, etc."
 permalink: /research/
 author_profile: false
 ---
