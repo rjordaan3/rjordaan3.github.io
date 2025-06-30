@@ -24,4 +24,4 @@ A related question is to determine graph operations that preserve ideal connecte
 ## Graph partitioning with connectivity constraints
 Thomassen conjectured that the vertices of any \( s + t + 1 \)-connected graph can be partitioned into two sets, the first inducing an \( s \)-connected graph and the second inducing a \( t \)-connected subgraph. Can we prove this for certain graph classes? One can show that the conjecture is equivalent to finding disjoint \( s \)- and \( t \)-connected subgraphs in the graph.
 
-Maybe a good place to start is a graph class that ensures somewhat large cliques. For instance, if the graph class (such as chordal graphs) ensures a \( K_s \), then we're done.
+Maybe a good place to start is a graph class that ensures somewhat large cliques. For instance, if the graph class (such as chordal graphs) ensures a \( K_s \), then we're done. To make progress on this conjecture it will be necessary to find a way to guarantee a highly connected subgraph in a stronger way than using a density argument.
